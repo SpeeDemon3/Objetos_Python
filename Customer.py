@@ -15,9 +15,6 @@ class Customer:
 customer = Customer('Antonio', 20000)
 customer_2 = Customer('Chula', 200002)
 
-
-
-
 print(customer.id)
 print(customer_2.id)
 print(customer_2.check_account_balance())
